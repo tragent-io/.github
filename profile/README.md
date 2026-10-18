@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.png" alt="tragent: can AI shopping agents buy from your store?" width="100%">
+  <img src="https://raw.githubusercontent.com/tragent-io/.github/main/profile/assets/header.png" alt="tragent: can AI shopping agents buy from your store?" width="100%">
 </p>
 
 **tragent** tests whether AI shopping agents (ChatGPT, Gemini, Perplexity and
@@ -9,7 +9,7 @@ before your customers do.
 
 ### What we build
 
-| | |
+| Product | What it does |
 | --- | --- |
 | **[tragent](https://tragent.io)** | Simulated AI shopping agents walk the nine stages of a purchase on your store, on every deploy and on a schedule. You get an AI shopping readiness score, the main blocker, and what to fix first. |
 | **[Agent Readiness Check](https://agentreadinesscheck.com)** | A free scan of any storefront, with no signup: a 0–100 readiness score and the fixes that matter. |
