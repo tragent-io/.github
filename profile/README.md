@@ -13,7 +13,7 @@ before your customers do.
 | --- | --- |
 | **[tragent](https://tragent.io)** | Simulated AI shopping agents walk the nine stages of a purchase on your store, on every deploy and on a schedule. You get an AI shopping readiness score, the main blocker, and what to fix first. |
 | **[Agent Readiness Check](https://agentreadinesscheck.com)** | A free scan of any storefront, with no signup: a 0–100 readiness score and the fixes that matter. |
-| **[tragent CLI](https://github.com/tragent-io/cli)** | The same tests from any CI pipeline, with a release check that fails the build when your store gets worse for agents. The first release is coming soon. |
+| **[tragent CLI](https://github.com/tragent-io/cli)** | The same tests from any CI pipeline, with a release check that fails the build when your store gets worse for agents. Install with `npx @tragent/cli`; releases are on [GitHub](https://github.com/tragent-io/cli/releases). |
 
 ### The nine stages we measure
 
@@ -22,4 +22,4 @@ Find products → Read the details → See the price → Check stock → Add to 
 
 ### Get in touch
 
-[tragent.io](https://tragent.io) · hello@tragent.io
+[tragent.io](https://tragent.io) · [hellotragent@gmail.com](mailto:hellotragent@gmail.com)
