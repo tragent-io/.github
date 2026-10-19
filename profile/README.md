@@ -14,6 +14,7 @@ before your customers do.
 | **[tragent](https://tragent.io)** | Simulated AI shopping agents walk the nine stages of a purchase on your store, on every deploy and on a schedule. You get an AI shopping readiness score, the main blocker, and what to fix first. |
 | **[Agent Readiness Check](https://agentreadinesscheck.com)** | A free scan of any storefront, with no signup: a 0–100 readiness score and the fixes that matter. |
 | **[tragent CLI](https://github.com/tragent-io/cli)** | The same tests from any CI pipeline, with a release check that fails the build when your store gets worse for agents. Install with `npx @tragent/cli`; releases are on [GitHub](https://github.com/tragent-io/cli/releases). |
+| **[acurl](https://acurl.dev)** | Free and open source. See any page the way AI agents see it: acurl fetches it as Chrome and 20+ AI agents and crawlers, shows which were blocked, challenged, cloaked or shown a different price, and scores how ready the page is. Install with `brew install tragent-io/tap/acurl` or `npx @tragent/acurl`; source on [GitHub](https://github.com/tragent-io/acurl). |
 
 ### The nine stages we measure
 
